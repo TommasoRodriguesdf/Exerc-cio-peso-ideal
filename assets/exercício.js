@@ -36,7 +36,7 @@ const pessoa ={
      console.log(artributo + " : " + pessoa[artributo]);
    }
 
-//Exercício2
+
 
 
 
